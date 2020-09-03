@@ -4,3 +4,7 @@ Experimental Repository for Testing Things Out
 ```R
 x = as.data.frame(Variable_1 = 3:5)
 ```
+
+```Python
+x = 3
+```
